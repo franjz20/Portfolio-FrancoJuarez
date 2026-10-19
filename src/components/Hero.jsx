@@ -82,7 +82,7 @@ export default function Hero() {
         >
           <div className="rounded-3xl bg-gradient-to-br from-accent to-accent-2 p-[3px]">
             <img
-              src="/assets/avatar.svg"
+              src="/assets/FrancoJuarez.jpg"
               alt={t.about.photoAlt}
               className="w-full rounded-3xl bg-card object-cover"
             />

@@ -13,7 +13,6 @@ export default function Education() {
       </Reveal>
 
       <div className="grid gap-12 lg:grid-cols-2">
-        {/* Educación formal — timeline */}
         <div>
           <Reveal>
             <h3 className="mb-6 flex items-center gap-2 font-mono text-sm tracking-wide text-accent uppercase">
@@ -38,7 +37,6 @@ export default function Education() {
           </ol>
         </div>
 
-        {/* Cursos y certificaciones */}
         <div>
           <Reveal>
             <h3 className="mb-6 flex items-center gap-2 font-mono text-sm tracking-wide text-accent uppercase">

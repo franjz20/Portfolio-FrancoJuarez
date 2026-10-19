@@ -55,7 +55,6 @@ export default function Navbar() {
           FJ
         </a>
 
-        {/* Desktop */}
         <div className="hidden items-center gap-7 md:flex">
           <ul className="flex items-center gap-7">
             {SECTIONS.map((id, i) => (
@@ -73,7 +72,6 @@ export default function Navbar() {
           {langToggle}
         </div>
 
-        {/* Mobile */}
         <div className="flex items-center gap-3 md:hidden">
           {langToggle}
           <button

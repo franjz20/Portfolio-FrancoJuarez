@@ -76,7 +76,6 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Foto / avatar */}
         <div
           className="animate-fade-up mx-auto w-56 sm:w-72 lg:w-full lg:max-w-sm"
           style={{ animationDelay: '300ms' }}

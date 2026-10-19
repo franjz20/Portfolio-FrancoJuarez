@@ -1,7 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
 
-// Observa el elemento y devuelve `visible=true` la primera vez que entra
-// en el viewport. Se usa junto a las clases .reveal/.revealed de index.css.
 export function useReveal(threshold = 0.15) {
   const ref = useRef(null)
   const [visible, setVisible] = useState(false)

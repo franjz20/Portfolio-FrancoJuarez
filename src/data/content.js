@@ -1,16 +1,3 @@
-// ============================================================================
-//  CONTENIDO DEL PORTFOLIO
-//  ----------------------------------------------------------------------------
-//  Este es el ÚNICO archivo que necesitas editar para personalizar el sitio.
-//
-//  · Cada texto existe en español (es) e inglés (en): edita ambos bloques.
-//  · Las imágenes se reemplazan en /public/assets manteniendo el mismo nombre
-//    (avatar.svg, project-1.svg...) o cambiando la ruta `image` de cada item.
-//  · Los iconos de tecnologías y redes se resuelven por nombre en los
-//    componentes (Skills.jsx y Contact.jsx).
-// ============================================================================
-
-// Redes sociales y correo — se usan en Hero, Contact y Footer.
 export const socials = [
   { label: 'GitHub', url: 'https://github.com/franjz20', icon: 'github' },
   {
@@ -21,8 +8,8 @@ export const socials = [
   { label: 'Email', url: 'mailto:francodanielj@gmail.com', icon: 'mail' },
 ]
 
-// Tecnologías: `name` debe coincidir con el mapa de iconos en Skills.jsx.
-// `category` puede ser: 'frontend' | 'backend' | 'database' | 'tools'.
+// `name` debe coincidir con una clave del mapa ICONS en src/components/Skills.jsx
+// `category`: 'frontend' | 'backend' | 'database' | 'tools'
 export const skills = [
   { name: 'JavaScript', category: 'frontend' },
   { name: 'TypeScript', category: 'frontend' },

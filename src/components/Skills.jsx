@@ -21,8 +21,7 @@ import SectionTitle from './SectionTitle'
 import { skills } from '../data/content'
 import { useLanguage } from '../hooks/useLanguage'
 
-// `name` en content.js debe coincidir con una clave de este mapa.
-// Si una tecnología no tiene icono, se muestra solo el nombre.
+// `name` en content.js debe coincidir con una clave de este mapa
 const ICONS = {
   JavaScript: SiJavascript,
   TypeScript: SiTypescript,

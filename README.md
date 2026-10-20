@@ -31,4 +31,4 @@ Analista Programador Universitario (Facultad de Ingeniería de Jujuy, 2020–202
 
 Full Stack Web Developer from Jujuy, Argentina — University Programming Analyst (Faculty of Engineering, Jujuy, 2020–2025). I design, build and deploy complete web applications, from API and database to UI.
 
-Live portfolio: **https://TU-URL-DE-VERCEL.vercel.app** · Contact: francodanielj@gmail.com
+Live portfolio: **https://portfolio-franco-juarez-one.vercel.app/** · Contact: francodanielj@gmail.com
